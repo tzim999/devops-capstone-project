@@ -118,7 +118,6 @@ def update_accounts(account_id):
 
     return account.serialize(), status.HTTP_200_OK
 
-
 ######################################################################
 # DELETE AN ACCOUNT
 ######################################################################
